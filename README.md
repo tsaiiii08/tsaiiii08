@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm tsai</h1>
-<h3 align="center"> I’m currently working as physical thrapist and a nwehand in software engineering</h3>
+<h3 align="center"> I’m currently working as physical thrapist and a newhand in software engineering</h3>
 
 
 
